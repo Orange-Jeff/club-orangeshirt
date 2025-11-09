@@ -1,0 +1,18 @@
+{
+  "next_id": 1,
+  "total_generated": 0,
+  "start_room": 0,
+  "rooms": {
+    "0": {
+      "id": 0,
+      "title": "The First Chamber",
+      "description": "You awaken in a dim chamber with two shimmering portals. The doorway you came through has vanished. Each portal bears a sign written in an unfamiliar script. The air tastes faintly of iron and rain.",
+      "image": "",
+      "coins": 1,
+      "exits": [
+        { "role": "home_or_death", "label": "Left portal" },
+        { "role": "existing_or_new", "label": "Right portal" }
+      ]
+    }
+  }
+}
